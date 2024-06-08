@@ -45,5 +45,5 @@ public class Main{
         }
         System.out.println("Game over! Your final score is: " +score+ " out of " +totalRounds);
         scanner.close();
-        }
+    }
 }
